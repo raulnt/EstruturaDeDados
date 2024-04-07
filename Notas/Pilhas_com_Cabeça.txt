@@ -1,0 +1,8 @@
+Uma pilha é uma estrutura de dados que segue o Princípio de LIFO 
+(Last-In-First-Out), significa que o último elemento inserido na pilha
+é o primeiro a ser removido. 
+
+Uma Pilha com Cabeça é:
+    Uma implementação que inclui um nó separado para representar a cabeça
+    da pilha. Isso permite um acesso mais fácil ao topo da pilha e 
+    simplifica as operações incersão e remoção.

@@ -1,0 +1,11 @@
+Seria uma sequência de elementos, onde cada elemento armazena 
+um valor e uma referência (ou ponteiro) para o próximo elemento
+na sequência.
+
+Em uma lista Encadeada Simples:
+    Cada elemento é chamado de nó e contém o valor do elemento e um
+    ponteiro para o próximo nó na lista. O último nó geralmente tem um
+    ponteiro nulo para indicar o final da lista.
+
+Lista encadeadas são flexíveis em tamanho e permitem inserção e remoção 
+eficientes de elementos em qualquer posição.

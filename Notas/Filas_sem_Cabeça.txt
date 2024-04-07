@@ -1,0 +1,11 @@
+Uma fila é uma estrutura de dados que segue o princípio de FIFO
+(First In First Out) que seria, o primeiro elemento que entra, é o 
+primeiro a sair.
+
+Uma fila sem cabeça seria:
+    Uma implementação de fila onde há um nó separado para representar
+    a cabeça da fila. Em vez disso os elementos são inseridos pela
+    cauda(fim) e removidos pela cabeça(início). 
+
+Ou seja: Neste caso específico, as operações de inserção e remoção
+ocorrem apenas em uma estremidade da fila.
