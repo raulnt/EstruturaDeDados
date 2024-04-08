@@ -1,0 +1,4 @@
+Os ponteiros são responsaveis por guardar o endereço das Estruturas de
+dados não Lineares;
+
+Ex; Listas, Pilhas; Filas; Árvores; entre outras...

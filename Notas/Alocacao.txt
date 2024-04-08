@@ -1,0 +1,27 @@
+Quando criamos uma variáveç, basicamente estamos reservando(alocando) um
+local na memória RAM, para essa variável.
+
+Cada tipo de dado demanda um determinado espeço.
+
+char: 1 byte
+int: 4 byte
+float: 4 byte
+double: 8 byte
+
+ÁREAS DE ARMAZENAMENTO FIXO
+
+Variáveis Locais ---> Pilha
+
+Memória Livre ---> Heap
+
+Variáveis Locais       |
+Instruções do programa | ---> Área de Armazenamento Fixo 
+Variáveis Estáticas    |
+
+
+Estruturas;
+
+Lineares ---> Alocados lado a lado na memória RAM; Arrays e Vetores...
+
+Não-Lineares ---> Elementos alocados espalhados na memória, não estão
+                  na sequência.
