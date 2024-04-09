@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/rjbne/Documents/Meus_Projetos_de_Estudos/EstruturaDeDados/EstruturaDeDados/Conhecendo_C",
-      "program": "c:/Users/rjbne/Documents/Meus_Projetos_de_Estudos/EstruturaDeDados/EstruturaDeDados/Conhecendo_C/build/Debug/outDebug",
+      "cwd": "c:/Users/rjbne/Documents/Meus_Projetos_de_Estudos/EstruturaDeDados/EstruturaDeDados/NaoLinearidade",
+      "program": "c:/Users/rjbne/Documents/Meus_Projetos_de_Estudos/EstruturaDeDados/EstruturaDeDados/NaoLinearidade/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
